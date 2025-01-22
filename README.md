@@ -217,7 +217,7 @@ This document outlines the key directories and their purposes in the project.
 - [Flow Steps](#flow-steps-for-the-nextjs-application)
 - [APIs](#apis)
 
----
+
 
 ## Functional Requirements
 
@@ -268,7 +268,6 @@ This document outlines the key directories and their purposes in the project.
    - GET /api/leads: Fetch all leads for the admin dashboard.
    - PUT /api/leads/:id: Update a lead's state.
 
----
 
 ## System Behavior
 - *State Management*:
@@ -278,7 +277,6 @@ This document outlines the key directories and their purposes in the project.
 - *Session Management*:
   - Admin UI and APIs are accessible only to authenticated admins.
 
----
 
 ## Flow Steps for the Next.js Application
 
@@ -305,7 +303,6 @@ This document outlines the key directories and their purposes in the project.
 5. *Admin UI Reflects Changes*
    - UI updates dynamically to show the new state.
 
----
 
 ## APIs
 
