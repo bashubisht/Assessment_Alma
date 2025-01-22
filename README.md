@@ -9,8 +9,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone < https://github.com/bashubisht/Assessment_Alma.git >
-   cd <Assessment_Alma>
+   git clone  https://github.com/bashubisht/Assessment_Alma.git 
+   cd  Assessment_Alma
    ```
 
 2. **Install Dependencies:**
