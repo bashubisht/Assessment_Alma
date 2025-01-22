@@ -346,6 +346,26 @@ This document outlines the key directories and their purposes in the project.
 
 ---
 
+## 9. Bonus Features Implemented
+
+✅ Next.js API routes for handling form submissions.
+
+✅ JSONForms used for a configuration-driven form setup.
+
+✅ Redux Toolkit used for efficient state management.
+
+✅ Unit tests for form submission and validation.
+
+✅ Responsive design to ensure a great user experience across different screen sizes.
+
+✅ TypeScript integration for type safety.
+
+✅ Form validation feedback to show meaningful error messages.
+
+✅ Documentation with a detailed system design explanation.
+
+---
+
 THANK YOU
 
 ---
