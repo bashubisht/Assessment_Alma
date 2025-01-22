@@ -120,6 +120,7 @@ This document outlines the design choices made during the development of the app
 - Integration with Redux: Hooks like useSelector and useDispatch simplify accessing and updating global state.
 - Reusable Logic: Custom hooks encapsulate shared logic, reducing duplication and promoting modularity.
 
+---
 
 ## 3. Benefits of the Design Choices
 
@@ -138,6 +139,7 @@ This document outlines the design choices made during the development of the app
 ### 3.4. Deployment and Hosting
 - The application is fully compatible with serverless hosting environments like Vercel, enabling cost-effective and scalable deployments.
 
+---
 
 ## 4. Limitations
 
@@ -149,10 +151,12 @@ This document outlines the design choices made during the development of the app
 3. *Scalability:*
 - The current architecture is designed for assignment purposes only.
 
+---
 
 ## 5. Conclusion
 The chosen design balances simplicity and functionality, leveraging Next.js for seamless integration between front-end and back-end, in-memory storage for rapid prototyping, and a combination of CSS and Material-UI for a responsive and professional UI. While suitable for small-scale applications and demos, the system is designed to evolve into a production-ready application with future improvements.
-       
+
+---
 
 ## 6. File Structure Documentation
 
@@ -333,9 +337,17 @@ This document outlines the key directories and their purposes in the project.
  "state": "REACHED_OUT" 
 }
 ```
-## Design Diagrams
+---
+
+## 8. Design Diagrams
+
+<img width="635" alt="SystemArchitecture" src="https://github.com/user-attachments/assets/be88cc88-abc1-4667-8e9e-1d0863a00e37" />
+
+
+<img width="913" alt="Ui System Design" src="https://github.com/user-attachments/assets/bb097a42-b497-4940-978c-d6197dcfd026" />
 
 ---
 
 THANK YOU
 
+---
