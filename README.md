@@ -162,7 +162,6 @@ The chosen design balances simplicity and functionality, leveraging Next.js for 
 
 This document outlines the key directories and their purposes in the project.
 
----
 
 ### Key Directories
 
@@ -218,7 +217,6 @@ This document outlines the key directories and their purposes in the project.
 - [APIs](#apis)
 
 
-
 ## Functional Requirements
 
 ### User Interface (User UI)
@@ -233,6 +231,7 @@ This document outlines the key directories and their purposes in the project.
      - Visa Category (required)
      - Help Message (required)
    - Successful submissions return a confirmation message.
+
 
 ### Admin Interface (Admin UI)
 1. *Admin Authentication*
@@ -250,6 +249,7 @@ This document outlines the key directories and their purposes in the project.
 3. *Update Lead State*
    - Admins can change a lead's state (e.g., PENDING → REACHED_OUT).
    - Changes are reflected immediately in the UI.
+
 
 ### Backend Functionality
 1. *Data Storage*
@@ -334,6 +334,7 @@ This document outlines the key directories and their purposes in the project.
  "state": "REACHED_OUT" 
 }
 ```
+
 ---
 
 ## 8. Design Diagrams
