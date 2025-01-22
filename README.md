@@ -25,7 +25,7 @@
    npm run dev
    # or
    yarn dev
-    # or (If above doesn't work)
+   # or (If above doesn't work)
    npm install @mui/x-date-pickers @mui/x-date-pickers-pro dayjs
    npm run build
    npm start
